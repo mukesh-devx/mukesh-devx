@@ -25,3 +25,30 @@
       </p>
 
     </div>
+
+    ---
+
+    ### ⚡ About Me
+
+    ```yaml
+    Name: Mukesh Singh
+    Role: Founder & Full Stack Engineer at GoCube Solution India
+    Location: Pune, Maharashtra, India
+    Focus: Enterprise Web Solutions, Performance Optimization, Scalable Architecture
+    Philosophy: "Fast load times, clean code, and intuitive user experiences."
+  ──────
+  ### 🛠 Tech Stack & Arsenal
+
+
+
+  ──────
+  ### 📊 GitHub Activity & Real-Time Stats
+  ──────
+  ### 🏆 Featured Work & Deployments
+
+  • 🚚 Moving Warriors Packers and Movers https://www.movingwarriors.in — High-performance corporate relocation website with automated GitHub Actions CI/CD to Hostinger, dynamic quote
+  workflows, and 100% Core Web Vitals optimization.
+  • 🏢 GoCube Solution India https://gocube.in — Official agency portal delivering next-generation digital products and software engineering.
+  ──────
+  ### 🤝 Let's Connect & Build Something Great
+  ⭐️ Designed with passion by GoCube Solution India
