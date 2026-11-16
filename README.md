@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/avatar.jpg" width="130" height="130" alt="Mukesh Singh" />
+  <img src="assets/avatar.jpg" width="155" height="155" alt="Mukesh Singh" />
 </p>
 
 <p align="center">
