@@ -3,15 +3,23 @@
 </p>
 
 <p align="center">
+  <img src="assets/avatar.jpg" width="130" height="130" alt="Mukesh Singh" />
+</p>
+
+<p align="center">
   <a href="https://gocube.in" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=620&lines=Hi+there%2C+I+am+Mukesh+Singh+%F0%9F%91%8B;Founder+%40+GoCube+Solution+India+%F0%9F%9A%80;Full-Stack+Architect+%26+UI%2FUX+Designer+%F0%9F%92%BB;Building+Fast%2C+Scalable+%26+Modern+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFA826&center=true&vCenter=true&width=620&lines=Hi+there%2C+I+am+Mukesh+Singh+%F0%9F%91%8B;Founder+%40+GoCube+Solution+India+%F0%9F%9A%80;Full-Stack+Architect+%26+UI%2FUX+Designer+%F0%9F%92%BB;Building+Fast%2C+Scalable+%26+Modern+Web+Apps+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://gocube.in" target="_blank"><img src="https://img.shields.io/badge/Agency-GoCube%20Solution-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GoCube Solution" /></a>
+  <strong>Crafting digital experiences with high performance, elegant code, and pixel-perfect design.</strong>
+</p>
+
+<p align="center">
+  <a href="https://gocube.in" target="_blank"><img src="https://img.shields.io/badge/Agency-GoCube%20Solution-FFA826?style=for-the-badge&logo=googlechrome&logoColor=black" alt="GoCube Solution" /></a>
   <a href="https://wa.me/918484855008" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:contact@gocube.in"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:contact@gocube.in"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -19,7 +27,7 @@
 ### 💻 Developer Terminal
 
 ```bash
-mukesh@gocube-macbook:~$ neofetch --profile
+mukesh@gocube-macbook:~$ neofetch --mukesh-singh
 -----------------------------------------------
 OS           : macOS Sonoma (Apple Silicon)
 Role         : Founder & Principal Software Architect
@@ -90,7 +98,7 @@ Quote        : "Fast load times, modular architecture, and zero-compromise UX."
       <h3 align="center">🚚 Moving Warriors</h3>
       <p align="center">
         <a href="https://www.movingwarriors.in" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Site-movingwarriors.in-FF0000?style=flat-square&logo=googlechrome&logoColor=white" />
+          <img src="https://img.shields.io/badge/Live_Site-movingwarriors.in-FFA826?style=flat-square&logo=googlechrome&logoColor=black" />
         </a>
       </p>
       <ul>
@@ -124,11 +132,11 @@ Quote        : "Fast load times, modular architecture, and zero-compromise UX."
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-devx&theme=radical&background=0D1117&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="Streak Stats" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-devx&theme=radical&background=0D1117&border=FFA826&stroke=FFA826&ring=FFA826&fire=FFA826&currStreakLabel=FFA826" alt="Streak Stats" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh-devx&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh-devx&bg_color=0D1117&color=FFA826&line=FFA826&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="85%" />
 </p>
 
 </details>
